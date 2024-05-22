@@ -9,8 +9,8 @@ env/
 .venv/
 .env/
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
+# Notebook Checkpoints
+.ipynb_checkpoints/
 
 # System files
 .DS_Store
