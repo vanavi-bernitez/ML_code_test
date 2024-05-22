@@ -10,7 +10,7 @@ env/
 .env/
 
 # Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+.ipynb_checkpoints
 
 # System files
 .DS_Store
@@ -35,9 +35,6 @@ Thumbs.db
 *.so
 *.dylib
 *.dll
-
-# Jupyter Notebook outputs
-*.ipynb
 
 # IDE-specific files
 .vscode/
